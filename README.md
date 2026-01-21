@@ -4,7 +4,7 @@ An interactive 360° panoramic media viewer.
 
 ## 👀 Preview
 
-- [Live Demo](https://htmlpreview.github.io/?https://github.com/SSzzPP/html-360-degrees-viewer/blob/main/index.html)
+- [Live Demo](https://htmlpreview.github.io/?https://github.com/SSzzPP/html-360-degrees-viewer/blob/main/index.html)?url=`media_url`&stereo=1
 
 ## 🚀 Features
 
@@ -14,6 +14,8 @@ An interactive 360° panoramic media viewer.
 - **Fullscreen** functionality (Opens in VR headset if supported)
 - **Screenshot** functionality
 - **Controls**: video play/pause, timeline slider
+- Supports loading from **External URL** (Only works when localhost or remote web server)
+- Supports provide **Url Params** `stereo` (0 is `monoscopic`, 1 is `up/down`, 2 is `left/right`, default is 0)
 
 ## 🧪 Compatibility
 
