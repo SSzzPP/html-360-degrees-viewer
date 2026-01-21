@@ -1,0 +1,17 @@
+abstract: "An interactive 360° panoramic media viewer."
+authors:
+  - name: "SSzzPP"
+cff-version: 1.2.0
+date-released: "2026-01-21"
+keywords:
+  - panorama
+  - "360 degrees"
+  - viewer
+  - equirectangular
+  - interactive
+  - media
+
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/SSzzPP/html-360-degrees-viewer"
+title: "360° Panoramic Media Viewer"
