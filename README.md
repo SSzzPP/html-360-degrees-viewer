@@ -9,7 +9,7 @@ An interactive 360° panoramic media viewer.
 ## 🚀 Features
 
 - **Drag & Drop** media support
-- **Stereo toggle** functionality (monoscopic, mono/top-bottom/side-by-side)
+- **Stereo toggle** functionality (monoscopic/top-bottom/side-by-side)
 - **Interactive** panning and zooming with mouse or touch
 - **Fullscreen** functionality (Opens in VR headset if supported)
 - **Screenshot** functionality
